@@ -1,0 +1,40 @@
+{
+  "name": "aethersync",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "tailwind:init": "tailwindcss init -p",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/plugin-opener": "^2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/api": "^2.5.0",
+    "@tauri-apps/cli": "^2.5.0",
+    "@types/node": "^22.15.21",
+    "@types/react": "^18.3.21",
+    "@types/react-dom": "^18.3.1",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7",
+    "tailwindcss-cli": "^0.1.2",
+    "typescript": "~5.6.2",
+    "unocss": "^66.1.2",
+    "vite": "^6.0.3"
+  },
+  "description": "This template should help get you started developing with Tauri, React and Typescript in Vite.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
