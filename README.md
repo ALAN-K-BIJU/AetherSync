@@ -43,13 +43,13 @@
 <div align="center">
   
 ### 🏠 Home Screen
-<img src="https://github.com/ALAN-K-BIJU/AetherSync/blob/main/screenshots/home.png" alt="Home Screen" width="600"/>
+<img src="https://github.com/ALAN-K-BIJU/AetherSync/blob/main/screenshots/home.jpg" alt="Home Screen" width="600"/>
 
 ### 📤 Upload Screen
-<img src="https://github.com/ALAN-K-BIJU/AetherSync/blob/main/screenshots/upload.png" alt="Upload Screen" width="600"/>
+<img src="https://github.com/ALAN-K-BIJU/AetherSync/blob/main/screenshots/upload.jpg" alt="Upload Screen" width="600"/>
 
 ### ⚙️ Settings Screen
-<img src="https://github.com/ALAN-K-BIJU/AetherSync/blob/main/screenshots/settings.png" alt="Settings Screen" width="600"/>
+<img src="https://github.com/ALAN-K-BIJU/AetherSync/blob/main/screenshots/settings.jpg" alt="Settings Screen" width="600"/>
 
 </div>
 
